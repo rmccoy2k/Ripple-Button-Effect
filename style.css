@@ -7,7 +7,7 @@
 
 /* body {} */
 body {
-  background-color: black;
+  background-color: #6a6c8d;
   font-family: 'Roboto', sans-serif;
   display: flex;
   flex-direction: column;
@@ -20,9 +20,9 @@ body {
 
 /* button {} */
 button {
-  background-color: purple;
+  background-color: #07acf3;
   color: white;
-  border: 1px purple solid;
+  border: 1px #07acf3 solid;
   font-size: 14px;
   text-transform: uppercase;
   letter-spacing: 2px;
